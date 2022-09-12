@@ -1,1 +1,1 @@
-Display current directory contents in a long format in linux
+A script to Display current directory contents in linux, including hidden files Using long format
