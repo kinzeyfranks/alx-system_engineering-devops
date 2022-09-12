@@ -1,1 +1,1 @@
-a scrip to Move the file betty from /tmp/ to /tmp/my_first_directory
+a scrip to Delete the file betty
